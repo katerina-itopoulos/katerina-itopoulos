@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning, deep learning and AI. Specifically on audio applications. 
 - 🌱 I’m currently studying a MSc in Computer Science. 
 - 💞️ I’m looking to collaborate on audio deep learning projects. 
-- 📫 How to reach me ...
+- 📫 How to reach me : katerinaitopoulos@icloud.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am from South Africa 
 
