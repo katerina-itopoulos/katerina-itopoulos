@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katerina-itopoulos
-- 👀 I’m interested in data science, machine learning, deep learning and AI. Also very interested in their application for sound/audio engineering and DSP. 
+- 👀 I’m interested in data science, machine learning, deep learning and AI 
 - 🌱 I’m currently studying a MSc in Computer Science in Berlin. 
 - 📫 How to reach me : katerinaitopoulos@icloud.com
 - 😄 Pronouns: she/her
